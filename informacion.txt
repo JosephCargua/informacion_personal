@@ -3,4 +3,5 @@ Joseph Johao Cargua Silva
 Shyris y Ojeda
 Cuarto Software 
 Metodologias Agiles
+Manejo y Configuracion de Software
 
