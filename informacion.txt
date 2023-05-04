@@ -5,3 +5,4 @@ Cuarto Software
 Manejo y Configuracion de Software
 Metodologías Agiles
 Computacion Visual
+Base de datos
