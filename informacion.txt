@@ -6,3 +6,4 @@ Manejo y Configuracion de Software
 Metodologías Agiles
 Computacion Visual
 Base de datos
+No se debe editar desde la pagina
