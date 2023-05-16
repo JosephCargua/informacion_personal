@@ -1,1 +1,2 @@
 Java
+los lenguajes que hemos aprendido hoy son android studio, kotlin, python, entre otros 
